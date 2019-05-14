@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin-top: 10%;
+	background: #FFF;
+}
+.form-login{
+	margin-top: 13%;
+}
+.outter-form-login{
+	padding: 20px;
+	background: #FCF;
+	position:relative;
+	border-radius: 5px;
+}
+.logo-login{
+	position: absolute;
+	font-size: 35px;
+	background: #000;
+	color: #FCF;
+	padding: 10px 18px;
+	top: -40px;
+	border-radius: 50%;
+	left: 40%;
+}
+.inner-login .form-control{
+	background:#000;
+}
+h3.tittle-login{
+	font-size: 20px;
+	margin-bottom: 20px;
+}
+.forget{
+	margin-top: 20px;
+	color: #000;
+}
+.btn-custom-green{
+	background: #36F;
+	color: #000;
+}
+	
